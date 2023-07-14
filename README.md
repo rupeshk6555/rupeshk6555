@@ -1,6 +1,7 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/rupeshk6555/github-banner/main/HI%20%F0%9F%91%8B%20(1).gif"><img src="https://raw.githubusercontent.com/rupeshk6555/github-banner/main/HI%20%F0%9F%91%8B%20(1).gif" alt="MasterHead" style="max-width: 100%;"></a> <h1 align="center">Hi 👋, I'm Rupesh kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400"  src="https://github.com/rupeshk6555/github-banner/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshk6555&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshk6555" /> </p>
 
